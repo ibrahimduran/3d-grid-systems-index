@@ -1,0 +1,82 @@
+[
+  {
+    "source": "makerworld",
+    "query": "gridfinity",
+    "count": 4490
+  },
+  {
+    "source": "printables",
+    "query": "gridfinity",
+    "count": 10000
+  },
+  {
+    "source": "thangs",
+    "query": "gridfinity",
+    "count": 3601
+  },
+  {
+    "source": "thingiverse",
+    "query": "gridfinity",
+    "count": 2037
+  },
+  {
+    "source": "makerworld",
+    "query": "multiboard",
+    "count": 3156
+  },
+  {
+    "source": "printables",
+    "query": "multiboard",
+    "count": 2903
+  },
+  {
+    "source": "thangs",
+    "query": "multiboard",
+    "count": 7271
+  },
+  {
+    "source": "thingiverse",
+    "query": "multiboard",
+    "count": 395
+  },
+  {
+    "source": "makerworld",
+    "query": "opengrid",
+    "count": 1632
+  },
+  {
+    "source": "printables",
+    "query": "opengrid",
+    "count": 465
+  },
+  {
+    "source": "thangs",
+    "query": "opengrid",
+    "count": 1
+  },
+  {
+    "source": "thingiverse",
+    "query": "opengrid",
+    "count": 21
+  },
+  {
+    "source": "makerworld",
+    "query": "skadis",
+    "count": 4337
+  },
+  {
+    "source": "printables",
+    "query": "skadis",
+    "count": 10000
+  },
+  {
+    "source": "thangs",
+    "query": "skadis",
+    "count": 351
+  },
+  {
+    "source": "thingiverse",
+    "query": "skadis",
+    "count": 4972
+  }
+]

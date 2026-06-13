@@ -1,0 +1,21 @@
+{
+  "name": "3d-grid-systems-index",
+  "packageManager": "yarn@4.11.0",
+  "type": "module",
+  "scripts": {
+    "refresh-data": "tsx ./bin/refresh-data && prettier --write data/data.json",
+    "update-readme": "tsx ./bin/update-readme && prettier --write README.md",
+    "format": "prettier --write ."
+  },
+  "dependencies": {
+    "cloakbrowser": "^0.3.31",
+    "playwright": "^1.59.0",
+    "prettier": "^3.8.4",
+    "zod": "^4.4.3"
+  },
+  "devDependencies": {
+    "@types/node": "^25.9.3",
+    "tsx": "^4.22.4",
+    "typescript": "^6.0.3"
+  }
+}
